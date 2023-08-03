@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "313115989825",
+    "project_id": "demofire-b0e2d",
+    "storage_bucket": "demofire-b0e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313115989825:android:ce31626002203671ef73c0",
+        "android_client_info": {
+          "package_name": "com.example.demi_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313115989825-0bn1eals4b3jq56u07nq951iodahstte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demi_fire",
+            "certificate_hash": "8bef4a72e340ff95ccd73464ebf0cb62a55f3668"
+          }
+        },
+        {
+          "client_id": "313115989825-725b9e11o4fjaol7env1ebsp28db4hbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NjzSTNsLTcb9cObaAIVPzJFWmpr9AkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313115989825-725b9e11o4fjaol7env1ebsp28db4hbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313115989825-d1k0iomq7b8tkgs2vo8vn7p4ir08guuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313115989825:android:f4de3cb8144da462ef73c0",
+        "android_client_info": {
+          "package_name": "com.example.demo_chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313115989825-725b9e11o4fjaol7env1ebsp28db4hbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NjzSTNsLTcb9cObaAIVPzJFWmpr9AkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313115989825-725b9e11o4fjaol7env1ebsp28db4hbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313115989825-d1k0iomq7b8tkgs2vo8vn7p4ir08guuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
